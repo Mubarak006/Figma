@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div class="container--0-">
   <div class="text-0-1-0">Event</div>
   <div class="text-0-1-1"><br /><br />Registration<br /></div>
@@ -610,7 +611,7 @@ HTML
  </svg >
   </div>
   
- 
+ ```
 
 
 ## OUTPUT:
